@@ -1,1 +1,1 @@
-# sub
+print("Hello World")
